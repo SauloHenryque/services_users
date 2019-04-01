@@ -13,9 +13,9 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
+import com.github.thiagonego.alfred.object.Objeto;
 import com.google.common.base.Charsets;
 
-import br.com.twsoftware.alfred.object.Objeto;
 import lombok.extern.slf4j.Slf4j;
 
 @Ignore

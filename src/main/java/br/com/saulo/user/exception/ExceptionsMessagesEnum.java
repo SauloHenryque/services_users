@@ -4,8 +4,9 @@ package br.com.saulo.user.exception;
 import static org.springframework.http.HttpStatus.BAD_REQUEST;
 import static org.springframework.http.HttpStatus.NOT_FOUND;
 
+import com.github.thiagonego.alfred.object.Objeto;
+
 import br.com.saulo.user.ultil.I18n;
-import br.com.twsoftware.alfred.object.Objeto;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
